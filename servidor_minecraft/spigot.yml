@@ -62,10 +62,10 @@ world-settings:
     below-zero-generation-in-existing-chunks: true
     view-distance: default
     simulation-distance: default
-    thunder-chance: 100000
     merge-radius:
       item: 0.5
       exp: -1.0
+    thunder-chance: 100000
     mob-spawn-range: 8
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
